@@ -1,0 +1,18 @@
+
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 20px;
+      }
+     .service-area {
+       grid-template-columns: 1fr 1fr;
+       }
+}
+
+
+@media (max-width: 480px) {
+    .service-area {
+      grid-template-columns: 1fr 1fr;
+    }
+}
+  
